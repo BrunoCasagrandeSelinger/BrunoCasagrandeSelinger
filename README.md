@@ -1,8 +1,10 @@
-### Aspiring Full Stack Developer   -----   HyperionDev Full Stack Web Development Bootcamp
+### >>>>> Aspiring Full Stack Developer   -----   HyperionDev Full Stack Web Development Bootcamp<<<<<
+
+I am currently enrolled in the HyperionDev Full Stack Web Development Bootcamp and am on track to graduate in June 2024. With my background in IT, I became curious about how coding and web development could improve efficiency in this field, particularly about streamlining analysis and reporting tasks. Through this exploration, I discovered the transformative potential of software to address real-world problems. I am thrilled at the prospect of leveraging my unique combination of web and software development skills to make a positive impact in the tech industry and embark on an exciting new career path.
 
 
 
--I'm currently learning at HyperionDev:
+### Currently learning at HyperionDev:
   * HTML & CSS
   * JAVASCRIPT
   * JSON and AJAX
@@ -10,10 +12,8 @@
   * Databases and the MongoDB Database
   * And more
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="C:\Users\bruno\Desktop\Untitled.png">
-  <source media="(prefers-color-scheme: light)" srcset="C:\Users\bruno\Desktop\Untitled.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="C:\Users\bruno\Desktop\Untitled.png">
-</picture>
+
+
+
 
 
