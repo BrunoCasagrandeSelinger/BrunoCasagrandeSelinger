@@ -1,16 +1,19 @@
-### Aspiring Full Stack Developer
+### Aspiring Full Stack Developer   -----   HyperionDev Full Stack Web Development Bootcamp
 
-<!--
-**brunominhoka/brunominhoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-I'm currently learning at HyperionDev:
+  * HTML & CSS
+  * JAVASCRIPT
+  * JSON and AJAX
+  * React 
+  * Databases and the MongoDB Database
+  * And more
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="C:\Users\bruno\Desktop\Untitled.png">
+  <source media="(prefers-color-scheme: light)" srcset="C:\Users\bruno\Desktop\Untitled.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="C:\Users\bruno\Desktop\Untitled.png">
+</picture>
+
+
