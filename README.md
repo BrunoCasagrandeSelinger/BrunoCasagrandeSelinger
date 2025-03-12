@@ -1,8 +1,8 @@
-### >>>>> Aspiring Full Stack Developer   -----   HyperionDev Full Stack Web Development Bootcamp<<<<<
+### >>>>> Aspiring Full Stack Developer / QA Tester <<<<<
 
 ## About Me
 
-I am currently enrolled in the HyperionDev Full Stack Web Development Bootcamp and am on track to graduate in June 2024. With my background in IT, I became curious about how coding and web development could improve efficiency in this field, particularly about streamlining analysis and reporting tasks. Through this exploration, I discovered the transformative potential of software to address real-world problems. I am thrilled at the prospect of leveraging my unique combination of web and software development skills to make a positive impact in the tech industry and embark on an exciting new career path.
+Motivated and detail-oriented Full Stack Web Developer with a background in IT and a strong passion for leveraging software development to improve efficiency in analysis and reporting tasks. Recently completed the HyperionDev Full Stack Web Development Bootcamp and currently pursuing a Bachelor's in Computer Science at Descomplica (UniAmerica). Dedicated to creating innovative, user-friendly applications that solve real-world problems and enhance business operations.
 
 
 
