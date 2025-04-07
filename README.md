@@ -11,6 +11,7 @@ Motivated and detail-oriented Full Stack Web Developer with a background in IT a
 ## Skills
 ### Currently learning at HyperionDev:
   * HTML & CSS
+  * Phyton
   * JAVA & JAVASCRIPT
   * JSON and AJAX
   * React 
